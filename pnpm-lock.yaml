@@ -6,6 +6,7 @@ specifiers:
   '@types/react': 18.0.19
   eslint: 8.23.0
   eslint-config-next: 12.3.0
+  keen-slider: ^6.7.0
   next: 12.3.0
   react: 18.2.0
   react-dom: 18.2.0
@@ -13,6 +14,7 @@ specifiers:
 
 dependencies:
   '@stitches/react': 1.2.8_react@18.2.0
+  keen-slider: 6.7.0
   next: 12.3.0_biqbaboplfbrettd7655fr4n2y
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
@@ -1272,6 +1274,10 @@ packages:
       array-includes: 3.1.5
       object.assign: 4.1.4
     dev: true
+
+  /keen-slider/6.7.0:
+    resolution: {integrity: sha512-tsxUE2PXCRQZcZsLmFY5S4UK0yStQd9Dw/qnH57RyXDTUr3XMDhoAOkPbOQT68lGNSpghBcEftPfcgggYoHFTA==}
+    dev: false
 
   /language-subtag-registry/0.3.22:
     resolution: {integrity: sha512-tN0MCzyWnoz/4nHS6uxdlFWoUZT7ABptwKPQ52Ea7URk6vll88bWBVhodtnlfEuCcKWNGoc+uGbw1cwa9IKh/w==}
