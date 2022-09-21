@@ -44,6 +44,7 @@ export const HomeProduct = styled('a', {
 
     strong: {
       fontSize: '$lg',
+      color: '$gray100',
     },
 
     span: {
